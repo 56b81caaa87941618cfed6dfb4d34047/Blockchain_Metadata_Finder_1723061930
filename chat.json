@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the navbar to be positioned on the page?\", \"option1\": \"At the top of the page\", \"option2\": \"At the side of the page (sidebar style)\"}, {\"question 2\": \"Should the navbar be fixed or responsive as the user scrolls through the page?\", \"option1\": \"Fixed at its position\", \"option2\": \"Responsive and moves with the scroll\"}], \"input_token_count\": 402, \"output_token_count\": 97, \"time_taken\": \"0:00:02.778370\"}",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202519",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, working on adding a navbar with navlinks.",
         "message_id": "guest07082024202514",
