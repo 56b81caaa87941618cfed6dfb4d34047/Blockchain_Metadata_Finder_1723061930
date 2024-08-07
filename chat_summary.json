@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you prefer the navbar to behave on different screen sizes (responsive design)?\", \"option1\": \"Remain fixed at the top of the screen on all devices\", \"option2\": \"Collapse into a hamburger menu on smaller screens\"}, {\"question 2\": \"Do you have specific colors or themes in mind for the navbar to align with the overall app design?\", \"option1\": \"Yes, match it with the existing app color scheme\", \"option2\": \"No, open to suggestions\"}], \"input_token_count\": 265, \"output_token_count\": 116, \"time_taken\": \"0:00:04.105176\"}",
         "timestamp": "07082024202122",
         "message_id": "guest07082024202117"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "timestamp": "07082024202134",
+        "message_id": "guest07082024202133"
     }
 ]
