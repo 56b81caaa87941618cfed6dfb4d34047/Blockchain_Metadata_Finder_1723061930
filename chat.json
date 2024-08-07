@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest07082024202620",
+        "timestamp": "07082024202621",
+        "component_file_name": "simple_hero_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear based on scroll direction?\", \"option1\": \"Fixed at the top\", \"option2\": \"Dynamic based on scroll\"}, {\"question 2\": \"For the navlinks 'Home,' 'About,' and 'Contact,' do you want any specific icons or only text links?\", \"option1\": \"Only text links\", \"option2\": \"Include specific icons for each\"}], \"input_token_count\": 531, \"output_token_count\": 110, \"time_taken\": \"0:00:03.534056\"}",
         "message_id": "guest07082024202548",
