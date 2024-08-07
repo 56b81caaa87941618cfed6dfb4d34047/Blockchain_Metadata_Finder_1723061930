@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you prefer the navbar to behave on different screen sizes (responsive design)?\", \"option1\": \"Remain fixed at the top of the screen on all devices\", \"option2\": \"Collapse into a hamburger menu on smaller screens\"}, {\"question 2\": \"Do you have specific colors or themes in mind for the navbar to align with the overall app design?\", \"option1\": \"Yes, match it with the existing app color scheme\", \"option2\": \"No, open to suggestions\"}], \"input_token_count\": 265, \"output_token_count\": 116, \"time_taken\": \"0:00:04.105176\"}",
+        "message_id": "guest07082024202117",
+        "timestamp": "07082024202122",
+        "component_file_name": "simple_footer_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation\", \"checked\": true}, {\"feature\": \"Dropdown menu under 'About' for additional resources\", \"checked\": false}, {\"feature\": \"User profile icon in navbar for account settings\", \"checked\": false}, {\"feature\": \"Search bar in navbar for quick metadata lookup\", \"checked\": true}, {\"feature\": \"Notification bell icon for alerts on new blockchain metadata\", \"checked\": true}, {\"feature\": \"Mobile-responsive hamburger menu for compact view\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 108, \"time_taken\": \"0:00:03.880005\"}",
         "message_id": "guest07082024202117",
