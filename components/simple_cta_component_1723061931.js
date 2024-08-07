@@ -5,10 +5,11 @@ Vue.component("simple_cta_component_1723061931", {
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
         <nav class="bg-white p-4 shadow-lg">
             <ul class="flex space-x-4">
-                <li><a href="#" class="text-purple-700 font-bold">Home</a></li>
-                <li><a href="#" class="text-purple-700 font-bold">About</a></li>
-                <li><a href="#" class="text-purple-700 font-bold">Contact</a></li>
+                <li><a href="#" class="text-purple-700 font-bold hover:text-purple-900">Home</a></li>
+                <li><a href="#" class="text-purple-700 font-bold hover:text-purple-900">About</a></li>
+                <li><a href="#" class="text-purple-700 font-bold hover:text-purple-900">Contact</a></li>
             </ul>
+        </nav>
         </nav>
         </nav>
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
