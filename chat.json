@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include a dynamic search bar in the navbar for quick blockchain metadata lookup\", \"checked\": true}, {\"feature\": \"Implement responsive design for the navbar to ensure compatibility across devices\", \"checked\": true}, {\"feature\": \"Add a 'Recent Searches' dropdown in the navbar to enhance user experience\", \"checked\": false}, {\"feature\": \"Incorporate a 'Help' link in the navbar for user support and guidance\", \"checked\": true}, {\"feature\": \"Enable theme customization options for the navbar, allowing users to choose light or dark mode\", \"checked\": false}, {\"feature\": \"Add a 'Submit Feedback' option in the navbar for user engagement and improvement\", \"checked\": true}], \"input_token_count\": 508, \"output_token_count\": 158, \"time_taken\": \"0:00:05.785256\"}",
+        "message_id": "guest07082024202620",
+        "timestamp": "07082024202628",
+        "component_file_name": "simple_hero_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"For the navbar's design, do you prefer a more minimalistic approach with just text links, or would you like icons beside the text for each navlink?\", \"option1\": \"Text links only\", \"option2\": \"Text with icons\"}], \"input_token_count\": 554, \"output_token_count\": 113, \"time_taken\": \"0:00:04.695857\"}",
         "message_id": "guest07082024202620",
