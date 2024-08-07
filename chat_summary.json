@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Certainly, working on adding a navbar with navlinks.",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202515",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202515",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"Fixed at the bottom of the screen regardless of scrolling\"}, {\"question 2\": \"What action should occur when the 'Submit' button is pressed?\", \"option1\": \"Send data to a server and show a confirmation message\", \"option2\": \"Store data locally on the device for later submission\"}], \"input_token_count\": 260, \"output_token_count\": 109, \"time_taken\": \"0:00:02.591301\"}",
+        "message_id": "guest07082024202336",
+        "timestamp": "07082024202339",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, adding a button that says Submit.",
+        "message_id": "guest07082024202336",
+        "timestamp": "07082024202337",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest07082024202336",
+        "timestamp": "07082024202336",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain search field\", \"checked\": true}, {\"feature\": \"Real-time data visualization of blockchain metrics\", \"checked\": false}, {\"feature\": \"User authentication system for personalized searches\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user comfort\", \"checked\": true}, {\"feature\": \"Feedback form for user suggestions and improvements\", \"checked\": false}, {\"feature\": \"Responsive design for mobile and desktop view\", \"checked\": true}], \"input_token_count\": 320, \"output_token_count\": 112, \"time_taken\": \"0:00:08.813131\"}",
         "message_id": "guest07082024202150",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation\", \"checked\": true}, {\"feature\": \"Dropdown menu under 'About' for additional resources\", \"checked\": false}, {\"feature\": \"User profile icon in navbar for account settings\", \"checked\": false}, {\"feature\": \"Search bar in navbar for quick metadata lookup\", \"checked\": true}, {\"feature\": \"Notification bell icon for alerts on new blockchain metadata\", \"checked\": true}, {\"feature\": \"Mobile-responsive hamburger menu for compact view\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 108, \"time_taken\": \"0:00:03.880005\"}",
-        "message_id": "guest07082024202117",
-        "timestamp": "07082024202122",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll create a navbar with Home, About, and Contact links.",
-        "message_id": "guest07082024202117",
-        "timestamp": "07082024202118",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with navlinks home, about and contact",
-        "message_id": "guest07082024202117",
-        "timestamp": "07082024202118",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hello World button\", \"checked\": true}, {\"feature\": \"Dynamic greeting change based on time of day (Good Morning/Afternoon/Evening)\", \"checked\": false}, {\"feature\": \"Button click analytics to track user engagement\", \"checked\": false}, {\"feature\": \"User customizable button colors and fonts\", \"checked\": false}, {\"feature\": \"Toast message or popup to confirm button has been pressed\", \"checked\": false}, {\"feature\": \"Option to share the greeting on social media platforms\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 113, \"time_taken\": \"0:00:03.147174\"}",
-        "message_id": "guest07082024202025",
-        "timestamp": "07082024202029",
-        "component_file_name": "simple_header_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where on the page would you like the 'Hello World' button to be located?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What function should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate to a new page with 'Hello World' details\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:02.886293\"}",
-        "message_id": "guest07082024202025",
-        "timestamp": "07082024202029",
-        "component_file_name": "simple_header_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user requested the AI to add a button that says \"Hello World.\" The AI acknowledged the request and confirmed it would be added. To better understand the user's needs, the AI then asked for a more detailed description of the project.",
-        "timestamp": "07082024202211",
-        "message_id": "guest07082024202150"
+        "content": "The user requested the addition of a navbar with navigation links for \"Home,\" \"About,\" and \"Contact,\" to which the AI confirmed it would create the navbar. Additionally, the user was presented with a list of features to consider implementing, which included a \"Sticky header,\" a \"Dropdown menu under 'About,'\u201d a \"User profile icon,\" a \"Search bar,\" a \"Notification bell icon,\" and a \"Mobile-responsive hamburger menu.\" The user had already marked some features as completed while others remained unchecked. The AI also suggested adding a \"Hello World\" button and, upon receiving the user\u2019s confirmation, asked for further specifics about its placement and function, providing two options for each. The conversation featured a successful exchange where the user expressed preferences while the AI actively acknowledged and sought clarification on various aspects of their project.",
+        "timestamp": "07082024202515",
+        "message_id": "guest07082024202514"
     }
 ]
