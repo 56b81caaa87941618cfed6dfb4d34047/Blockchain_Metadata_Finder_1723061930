@@ -5,11 +5,11 @@ Vue.component("simple_footer_component_1723061931", {
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
         <div class="grid">
             <div class="flex-1">
-                <nav id="navbar" class="bg-gray-800 p-4 shadow-lg">
+                <nav id="navbar" class="bg-white p-4 shadow-lg">
                     <ul class="flex justify-center space-x-4">
-                        <li><a href="#home" class="text-white hover:text-gray-400">Home</a></li>
-                        <li><a href="#about" class="text-white hover:text-gray-400">About</a></li>
-                        <li><a href="#contact" class="text-white hover:text-gray-400">Contact</a></li>
+                        <li><a href="#home" class="text-black hover:text-purple-500">Home</a></li>
+                        <li><a href="#about" class="text-black hover:text-purple-500">About</a></li>
+                        <li><a href="#contact" class="text-black hover:text-purple-500">Contact</a></li>
                     </ul>
                 </nav>
             </div>
