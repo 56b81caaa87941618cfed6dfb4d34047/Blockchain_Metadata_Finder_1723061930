@@ -3,6 +3,17 @@
 Vue.component("simple_footer_component_1723061931", {
     template: `
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
+        <div class="grid">
+            <div class="flex-1">
+                <nav id="navbar" class="bg-gray-800 p-4 shadow-lg">
+                    <ul class="flex justify-center space-x-4">
+                        <li><a href="#home" class="text-white hover:text-gray-400">Home</a></li>
+                        <li><a href="#about" class="text-white hover:text-gray-400">About</a></li>
+                        <li><a href="#contact" class="text-white hover:text-gray-400">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
             <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
                 <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
                 <div id="footer-content" class="text-center">
