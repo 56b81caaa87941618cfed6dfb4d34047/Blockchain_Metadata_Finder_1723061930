@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear based on scroll direction?\", \"option1\": \"Fixed at the top\", \"option2\": \"Dynamic based on scroll\"}, {\"question 2\": \"For the navlinks 'Home,' 'About,' and 'Contact,' do you want any specific icons or only text links?\", \"option1\": \"Only text links\", \"option2\": \"Include specific icons for each\"}], \"input_token_count\": 531, \"output_token_count\": 110, \"time_taken\": \"0:00:03.534056\"}",
+        "message_id": "guest07082024202548",
+        "timestamp": "07082024202553",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Right away, creating a navbar with home, about and contact links.",
+        "message_id": "guest07082024202548",
+        "timestamp": "07082024202549",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest07082024202548",
+        "timestamp": "07082024202548",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a search bar for quick blockchain metadata lookup\", \"checked\": true}, {\"feature\": \"Implement a user authentication system for personalized experiences\", \"checked\": false}, {\"feature\": \"Incorporate a live chat support for user assistance\", \"checked\": false}, {\"feature\": \"Add a 'Recent Searches' section for easy navigation\", \"checked\": true}, {\"feature\": \"Include a dark/light mode toggle for user preference\", \"checked\": false}, {\"feature\": \"Create a feedback form for user suggestions\", \"checked\": false}], \"input_token_count\": 356, \"output_token_count\": 108, \"time_taken\": \"0:00:08.620565\"}",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202525",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the navbar to be positioned on the page?\", \"option1\": \"At the top of the page\", \"option2\": \"At the side of the page (sidebar style)\"}, {\"question 2\": \"Should the navbar be fixed or responsive as the user scrolls through the page?\", \"option1\": \"Fixed at its position\", \"option2\": \"Responsive and moves with the scroll\"}], \"input_token_count\": 402, \"output_token_count\": 97, \"time_taken\": \"0:00:02.778370\"}",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202519",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, working on adding a navbar with navlinks.",
         "message_id": "guest07082024202514",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain search field\", \"checked\": true}, {\"feature\": \"Real-time data visualization of blockchain metrics\", \"checked\": false}, {\"feature\": \"User authentication system for personalized searches\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user comfort\", \"checked\": true}, {\"feature\": \"Feedback form for user suggestions and improvements\", \"checked\": false}, {\"feature\": \"Responsive design for mobile and desktop view\", \"checked\": true}], \"input_token_count\": 320, \"output_token_count\": 112, \"time_taken\": \"0:00:08.813131\"}",
-        "message_id": "guest07082024202150",
-        "timestamp": "07082024202211",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a button that says \"Hello World\".",
-        "message_id": "guest07082024202150",
-        "timestamp": "07082024202150",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate dynamic search bar in the sidebar for quick blockchain metadata lookup\", \"checked\": true}, {\"feature\": \"Implement a 'Recent Searches' section below the nav links for easy access to past queries\", \"checked\": false}, {\"feature\": \"Add a 'Favorites' or 'Bookmark' section in the sidebar for users to save important blockchain metadata\", \"checked\": true}, {\"feature\": \"Incorporate a toggle button for light/dark mode in the sidebar for user convenience\", \"checked\": false}, {\"feature\": \"Include a 'Feedback' link in the sidebar for users to report issues or suggest improvements\", \"checked\": true}, {\"feature\": \"Embed a 'Latest Blockchain News' ticker at the bottom of the sidebar for user engagement\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 162, \"time_taken\": \"0:00:03.829784\"}",
-        "message_id": "guest07082024202133",
-        "timestamp": "07082024202138",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with navlinks home, about and contact",
-        "message_id": "guest07082024202133",
-        "timestamp": "07082024202134",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you prefer the navbar to behave on different screen sizes (responsive design)?\", \"option1\": \"Remain fixed at the top of the screen on all devices\", \"option2\": \"Collapse into a hamburger menu on smaller screens\"}, {\"question 2\": \"Do you have specific colors or themes in mind for the navbar to align with the overall app design?\", \"option1\": \"Yes, match it with the existing app color scheme\", \"option2\": \"No, open to suggestions\"}], \"input_token_count\": 265, \"output_token_count\": 116, \"time_taken\": \"0:00:04.105176\"}",
-        "message_id": "guest07082024202117",
-        "timestamp": "07082024202122",
-        "component_file_name": "simple_footer_component_1723061931",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "The user requested the addition of a navbar with navigation links for \"Home,\" \"About,\" and \"Contact,\" to which the AI confirmed it would create the navbar. Additionally, the user was presented with a list of features to consider implementing, which included a \"Sticky header,\" a \"Dropdown menu under 'About,'\u201d a \"User profile icon,\" a \"Search bar,\" a \"Notification bell icon,\" and a \"Mobile-responsive hamburger menu.\" The user had already marked some features as completed while others remained unchecked. The AI also suggested adding a \"Hello World\" button and, upon receiving the user\u2019s confirmation, asked for further specifics about its placement and function, providing two options for each. The conversation featured a successful exchange where the user expressed preferences while the AI actively acknowledged and sought clarification on various aspects of their project.",
-        "timestamp": "07082024202515",
-        "message_id": "guest07082024202514"
+        "content": "The user initiated a conversation with the AI about implementing various features for an application. They requested the addition of a sidebar with navigation links, specifically Home, About, and Contact. The AI confirmed this request and presented a list of desired UI components, including a dynamic search bar, the option to save favorites, and a feedback link, with varying states of implementation. Additionally, a navbar was discussed, and the AI was instructed to include navigation links.\n\nThroughout the conversation, the user provided preferences regarding the design and functionality of the navbar, such as responsiveness to screen sizes and color schemes. The AI acknowledged each message, ensuring clarity on what would be created next. Among other features, the user requested a \"Hello World\" button, for which the AI confirmed it would be added and subsequently asked for clarification on its placement and functionality. The conversation also explored the possibility of incorporating interactive elements and user engagement features that would enhance the overall user experience.",
+        "timestamp": "07082024202553",
+        "message_id": "guest07082024202548"
     }
 ]
