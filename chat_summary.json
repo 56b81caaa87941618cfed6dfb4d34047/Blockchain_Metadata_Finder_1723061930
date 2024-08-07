@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where on the page would you like the 'Hello World' button to be located?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What function should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate to a new page with 'Hello World' details\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:02.886293\"}",
         "timestamp": "07082024202029",
         "message_id": "guest07082024202025"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hello World button\", \"checked\": true}, {\"feature\": \"Dynamic greeting change based on time of day (Good Morning/Afternoon/Evening)\", \"checked\": false}, {\"feature\": \"Button click analytics to track user engagement\", \"checked\": false}, {\"feature\": \"User customizable button colors and fonts\", \"checked\": false}, {\"feature\": \"Toast message or popup to confirm button has been pressed\", \"checked\": false}, {\"feature\": \"Option to share the greeting on social media platforms\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 113, \"time_taken\": \"0:00:03.147174\"}",
+        "timestamp": "07082024202029",
+        "message_id": "guest07082024202025"
     }
 ]
