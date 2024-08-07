@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"For the navbar's design, do you prefer a more minimalistic approach with just text links, or would you like icons beside the text for each navlink?\", \"option1\": \"Text links only\", \"option2\": \"Text with icons\"}], \"input_token_count\": 554, \"output_token_count\": 113, \"time_taken\": \"0:00:04.695857\"}",
+        "message_id": "guest07082024202620",
+        "timestamp": "07082024202627",
+        "component_file_name": "simple_hero_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I can add a navbar with navlinks for home, about, and contact.",
         "message_id": "guest07082024202620",
