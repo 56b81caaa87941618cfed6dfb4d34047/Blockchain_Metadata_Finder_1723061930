@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a search bar for quick blockchain metadata lookup\", \"checked\": true}, {\"feature\": \"Implement a user authentication system for personalized experiences\", \"checked\": false}, {\"feature\": \"Incorporate a live chat support for user assistance\", \"checked\": false}, {\"feature\": \"Add a 'Recent Searches' section for easy navigation\", \"checked\": true}, {\"feature\": \"Include a dark/light mode toggle for user preference\", \"checked\": false}, {\"feature\": \"Create a feedback form for user suggestions\", \"checked\": false}], \"input_token_count\": 356, \"output_token_count\": 108, \"time_taken\": \"0:00:08.620565\"}",
+        "message_id": "guest07082024202514",
+        "timestamp": "07082024202525",
+        "component_file_name": "simple_cta_component_1723061931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the navbar to be positioned on the page?\", \"option1\": \"At the top of the page\", \"option2\": \"At the side of the page (sidebar style)\"}, {\"question 2\": \"Should the navbar be fixed or responsive as the user scrolls through the page?\", \"option1\": \"Fixed at its position\", \"option2\": \"Responsive and moves with the scroll\"}], \"input_token_count\": 402, \"output_token_count\": 97, \"time_taken\": \"0:00:02.778370\"}",
         "message_id": "guest07082024202514",
