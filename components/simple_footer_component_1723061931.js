@@ -28,7 +28,9 @@ Vue.component("simple_footer_component_1723061931", {
                         © 2023 MetaChain Explorer. Empowering blockchain discovery.
                     </div>
 
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Hello World</button>
+
+                    <button class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded shadow-lg">Hello World</button>
+                    
                     
             </div>
         </div>
