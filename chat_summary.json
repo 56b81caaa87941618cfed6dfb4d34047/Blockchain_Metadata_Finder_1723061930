@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hello World button\", \"checked\": true}, {\"feature\": \"Dynamic greeting change based on time of day (Good Morning/Afternoon/Evening)\", \"checked\": false}, {\"feature\": \"Button click analytics to track user engagement\", \"checked\": false}, {\"feature\": \"User customizable button colors and fonts\", \"checked\": false}, {\"feature\": \"Toast message or popup to confirm button has been pressed\", \"checked\": false}, {\"feature\": \"Option to share the greeting on social media platforms\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 113, \"time_taken\": \"0:00:03.147174\"}",
         "timestamp": "07082024202029",
         "message_id": "guest07082024202025"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "timestamp": "07082024202118",
+        "message_id": "guest07082024202117"
     }
 ]
